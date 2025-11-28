@@ -1,4 +1,4 @@
-t# 💫 About Me:
+# 💫 About Me:
 Hi, I mostly like to learn about and work on LUA. I also do some web dev, primarily in PHP, and automation in Python. Feel free to browse my projects to learn more.
 
 
